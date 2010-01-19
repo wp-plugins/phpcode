@@ -23,3 +23,22 @@ same colors like the PHP-internal Syntaxhighlighter.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Just put your php code in your posts inside of <phpcode></phpcode> tags to get syntax highlighted code
 
+== Frequently Asked Questions ==
+
+= How do I use the plugin =
+
+Just put your PHP inside of <phpcode></phpcode> tags
+
+== Screenshots ==
+
+1. Plugin in action
+
+== Changelog ==
+
+= 0.1 =
+* First release
+
+== Upgrade Notice ==
+
+No upgrades yet
+
